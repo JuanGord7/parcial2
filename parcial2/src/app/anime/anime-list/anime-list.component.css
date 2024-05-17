@@ -1,0 +1,11 @@
+img {
+    height: 350px;
+    width: auto;
+    max-width: 400px;
+   }
+
+.titulo{
+    align-content: center;
+    background-color: #1E90FF;
+    height: 250px;
+}
